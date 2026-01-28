@@ -1,2 +1,2 @@
 # Vehical-Insurance-Prediction
-A project will hepl to predict vehical Insurance
+A project will help to predict vehical Insurance
